@@ -1,6 +1,13 @@
+foods:
 cherry
 grapes
 orange
 watermelon
 dragon fruit
 passion fruit
+
+movies:
+untouchable
+beautiful life
+fresh off the boat 
+Everything Everywhere All at Once
